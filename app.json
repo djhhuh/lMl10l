@@ -12,15 +12,15 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "هنا ضع اسم التلجرام الخاص بك",
+      "description": "اسمك بلاع",
       "value": ""
     },
     "APP_ID": {
-      "description": "هنا ضع الاب ايدي الخاص بك يتكون من 8 ارقام", 
+      "description": "  من 8 ارقام", 
       "value": ""
     },
     "API_HASH": {
-      "description": "هنا ضع الايبي هاش الخاص بك",
+      "description": "هنا الخاص بك",
       "value": ""
     },
     "ENV": {
@@ -32,7 +32,7 @@
       "value": "."
     },
     "STRING_SESSION": {
-      "description": "هنا ضع كود سيشن تيليثون كود تيرمكس الخاص بك",
+      "description": "هنا ضع كود تيرمكس الخاص بك",
       "value": ""
     },
     "TG_BOT_USERNAME": {
