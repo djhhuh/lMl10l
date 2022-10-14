@@ -59,7 +59,7 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "رمز السورس لا تغيره ابدا",
+      "description": "رمز لا تغيره ابدا",
       "value": "jepthoniq",
       "required": false
     }
